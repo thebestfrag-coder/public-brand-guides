@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebestfrag-coder.github.io/public-brand-guides/sitemap.xml
